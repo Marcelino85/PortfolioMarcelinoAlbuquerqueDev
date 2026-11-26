@@ -359,7 +359,7 @@ export const RESUME_DETAILS = {
     'Inglês – Básico',
     'Espanhol – Intermediário',
     'Disponibilidade para trabalho presencial/remoto/híbrido',
-    'Portfólio: https://marcelino85.github.io/Portfolio-Profissional'
+    'Portfólio: https://marcelinoalbuquerque.netlify.app/'
   ]
 };
 
